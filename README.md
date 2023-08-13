@@ -1,4 +1,4 @@
-#Priesty Inc. 
+# Priesty Inc. 
 
 Welcome to **Priesty Inc.** The number 1 gaming development company. We are open to inviting new members, If you would like to join our team, Dm me at **priestytheplushie** on discord.
 
