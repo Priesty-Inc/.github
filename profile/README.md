@@ -1,4 +1,13 @@
-## Hi there 👋
+## Priesty Inc.
+
+Welcome to **Priesty Inc.** We are a game development company with the goal of making fun, high quality games
+and building community! We hope you enjoy our projects and maybe join our team.
+
+If you would like to join and contriube, you may dm **priestytheplushie** on discord, We
+ask that you have a least a **little** bit of experience with unreal engine or other
+game development software before applying.
+
+Thanks for checking out our profile and have a lovely day :smile:
 
 <!--
 
